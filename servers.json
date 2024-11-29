@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Server 1",
-      "address": "fr1.wgtunnel.xyz",
+      "address": "10.66.66.8/32, fd42:42:42::8/128",
       "port": 51820,
       "private_key": "wJ/w3Fg9C45rNS27jTI2ps2ya44wPteEv7iRqsMY+Gc=",
       "public_key": "JhbT4cpir8Lp5FDu7qn8woFQ52n3ihwX23DPi6wdfX0=",
