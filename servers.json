@@ -1,19 +1,20 @@
 {
   "servers": [
     {
-      "name": "Server 1",
-      "address": "185.234.64.204",
+      "name": "Germany VPN",
+      "address": "10.66.66.9/32, fd42:42:42::9/128",
       "port": 51820,
-      "private_key": "wJ/w3Fg9C45rNS27jTI2ps2ya44wPteEv7iRqsMY+Gc=",
-      "public_key": "JhbT4cpir8Lp5FDu7qn8woFQ52n3ihwX23DPi6wdfX0=",
+      "private_key": "2FVxS7Z9KcWieTSUx+RtQpTeEq0ilHtRHiFxq9gu71w=",
+      "public_key": "EYT5tlLjMDbQKZ+cjiAiuoM7rvtlv9jRlvrlFce9W0Q=",
+      "preshared_key": "KytxrUQDSoJn2hZguavgD8Q+9x3BX3sZmqN8zhXm8Gg=",
       "allowed_ips": "0.0.0.0/0, ::/0",
       "dns": [
         "1.1.1.1",
         "1.0.0.1"
       ],
-      "endpoint": "fr1.wgtunnel.xyz:51820",
+      "endpoint": "de1.vpnlabs.xyz:51820",
       "persistent_keepalive": 25,
-      "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/main/fr.png"
+      "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/main/de.png"
     }
   ]
 }
