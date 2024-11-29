@@ -1,0 +1,18 @@
+{
+  "servers": [
+    {
+      "name": "Server 1",
+      "address": "fr1.wgtunnel.xyz",
+      "port": 51820,
+      "private_key": "wJ/w3Fg9C45rNS27jTI2ps2ya44wPteEv7iRqsMY+Gc=",
+      "public_key": "JhbT4cpir8Lp5FDu7qn8woFQ52n3ihwX23DPi6wdfX0=",
+      "allowed_ips": "0.0.0.0/0, ::/0",
+      "dns": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ],
+      "endpoint": "fr1.wgtunnel.xyz:51820",
+      "persistent_keepalive": 25
+    }
+  ]
+}
