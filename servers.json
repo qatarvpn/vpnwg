@@ -12,7 +12,8 @@
         "1.0.0.1"
       ],
       "endpoint": "fr1.wgtunnel.xyz:51820",
-      "persistent_keepalive": 25
+      "persistent_keepalive": 25,
+      "image_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/main/fr.png"
     }
   ]
 }
