@@ -1,11 +1,11 @@
 {
   "vpn_servers": [
     {
-      "name": "FRANCE 1 🇫🇷  📶",
+      "name": "FRANCE 1 🇫🇷  🚀",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/sshstores-frsr2bt-udp.ovpn",
       "username": "racevpn.com-nl54freb",
       "password": "mo1234",
-      "server_type": "free"
+      "server_type": "fast"
     },
     {
       "name": "FRANCE 2 🇫🇷 📶",
